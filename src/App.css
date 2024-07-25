@@ -1,3 +1,16 @@
+body {
+  background: #f0ece2;
+}
+
+a {
+  color: #5A6A46;
+}
+
+footer {
+  color: #5A6A46;
+  font-weight: 350;
+}
+
 .App-header {
   margin: 30px 0;
 }
