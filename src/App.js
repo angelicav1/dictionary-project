@@ -13,7 +13,10 @@ export default function App() {
           <Dictionary defaultKeyword="forest" />
         </main>
         <footer className='App-footer'>
-          <small>Coded by Wild Byte</small>
+          
+          <small>Coded by <a href="https://wildbyte.org/" target="_blank" rel="noreferrer">Wild Byte</a>
+          , open-source on <a href="https://github.com/angelicav1/dictionary-project" target="_blank" rel="noreferrer">Github</a>
+          , and hosted on <a href="https://cheery-sprinkles-9d1168.netlify.app/" target="_blank" rel="noreferrer">Netlify</a></small>
         </footer>
       </div>
     </div>
